@@ -1,5 +1,10 @@
 # 💫 About Me:
- I’m currently studying Blockchain and MERN Stack Development.<br>- I’m looking to collaborate on blockchain and web development projects.<br>- I’m currently learning Layer 2 scaling solutions and DeFi protocols.<br>- You can ask me about blockchain and full-stack development.<br>- Fun fact: Blockchain technology has more use cases than just cryptocurrencies!
+- 🔭 I’m currently studying **Blockchain and MERN Stack Development**.
+- 👯 I’m looking to collaborate on **blockchain and web development projects**.
+- 🌱 I’m currently learning **Layer 2 scaling solutions and DeFi protocols**.
+- 💬 You can ask me about **blockchain and full-stack development**.
+- ⚡ Fun fact: **Blockchain technology has more use cases than just cryptocurrencies!**
+
 
 
 ## 🌐 Socials:
