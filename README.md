@@ -1,3 +1,6 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Aneesh2002&label=Profile%20Views&color=0e75b6&style=flat" alt="Aneesh2002" /> </p>
+
+
 # Hi there! 👋 Welcome to My GitHub Profile
 
 ## About Me
